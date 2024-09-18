@@ -3755,3 +3755,5 @@ class $AppDatabaseManager {
   $$PlanExercisesTableTableManager get planExercises =>
       $$PlanExercisesTableTableManager(_db, _db.planExercises);
 }
+
+// Auto-generated comment for change 20
