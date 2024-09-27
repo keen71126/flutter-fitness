@@ -14,7 +14,7 @@ Get fit with Flexify. Easily track your gym progression with offline records and
 
 - 📵 **Offline**: Flexify doesn't use the internet at all.
 - 📈 **Graphs**: Visualize your progress over time with intuitive graphs.
-- 🏃 **Cardio tracking**: Record your progress with cardio types.
+- 🏃 **Cardio tracking**: Record your progress with cardio type.
 - ⚙️ **Highly customizable**: Toggle features on/off, swap between light/dark theme and much more.
 - ⏱️ **Automatic rest timers**: Stay focused with alarms after resting.
 
