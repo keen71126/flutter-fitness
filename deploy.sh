@@ -1,5 +1,3 @@
-#!/bin/bash
-
 set -ex
 
 export PUB_SUMMARY_ONLY=true
